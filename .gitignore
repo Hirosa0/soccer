@@ -1,0 +1,17 @@
+# .gitignoreファイルの作成
+echo "soccer_stats.db
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp" > .gitignore
